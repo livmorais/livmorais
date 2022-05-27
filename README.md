@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m Lívia Morais. 
-- 
+ 
 - 👀 Developer Full Stack.
-- 
+ 
 - 🌱 Languages and Tools: Java, JavaScript, Typescript, React, Node.js, HTML, CSS, Bootstrap, SQL.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livmorais)](https://github.com/livmorais/github-readme-stats)
