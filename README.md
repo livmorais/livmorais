@@ -4,7 +4,7 @@
  
 - 🌱 Languages and Tools: Java, JavaScript, TypeScript, React, Node.js, HTML, CSS, Bootstrap, SQL.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livmorais)](https://github.com/livmorais/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livmorais&theme=tokyonight)
 
 <!---
 livmorais/livmorais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
