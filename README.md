@@ -1,6 +1,6 @@
 - 👋 Hi there, I’m Lívia Morais. 
  
-- 👀 Developer Full Stack.
+- 👀 Learning Full Stack Development.
  
 - 🌱 Languages and Tools: Java, JavaScript, TypeScript, React, Node.js, HTML, CSS, Bootstrap, SQL.
 
