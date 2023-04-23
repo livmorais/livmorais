@@ -2,7 +2,7 @@
  
 - :sparkles: Learning Full Stack Development.
  
-- 🌱 Languages and Tools: Java, JavaScript, TypeScript, C#, React, Node.js, HTML, CSS, Bootstrap, SQL.
+- 🌱 Languages and Tools: Java, JavaScript, TypeScript, C#, React, Node.js, HTML, CSS, Bootstrap, SQL e NoSQL.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=livmorais&theme=tokyonight)
 
